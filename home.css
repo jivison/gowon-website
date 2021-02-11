@@ -18,7 +18,7 @@ body,
   text-align: center;
 
   font-size: 7rem;
-  
+
   /* color: #ede8f2; */
   color: #fbf9ea;
   top: 3em;
@@ -32,6 +32,7 @@ nav {
   justify-content: space-between;
   padding: 0.5em 3em 1em 0.5em;
   background: #fbf9ea;
+  width: 100vw;
 }
 
 nav .logo {
